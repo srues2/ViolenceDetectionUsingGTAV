@@ -15,7 +15,7 @@ Open the folder /ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv to see the code 
 
 The file "/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv/RunModelOnVideo.ipynb" contains the main function for identifying people in videos.
 
-The file offers 2 options:
+The file offers two options:
 1. You can upload an input video for the person identification model by yourself. As soon as a person is identified in the video, the video stops and the output prints that a person has been identified.
 2. You can use your own camera. As soon as a person is identified on the image, a block is created around the person.
 
