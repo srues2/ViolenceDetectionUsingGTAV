@@ -17,6 +17,6 @@ The file **"/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv/RunModelOnVideo.ipyn
 
 The file offers two options:
 1. You can upload an input video for the person identification model by yourself. As soon as a person is identified in the video, the video stops and the output prints that a person has been identified.
-2. You can use your own camera. As soon as a person is identified on the image, a block is created around the person.
+2. You can use your own camera. As soon as a person is identified on the video, a block is created around the person.
 
 ## 2. Violence identification
