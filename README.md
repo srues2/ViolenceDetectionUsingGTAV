@@ -13,7 +13,7 @@ The incoming surveillance sequences were first assessed by a MobileNet-SSD CNN m
 
 Open the folder /ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv to see the code how people are identified in videos.
 
-The file "/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv/RunModelOnVideo.ipynb" contains the main function for identifying people in videos.
+The file **"/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv/RunModelOnVideo.ipynb"** contains the main function for identifying people in videos.
 
 The file offers two options:
 1. You can upload an input video for the person identification model by yourself. As soon as a person is identified in the video, the video stops and the output prints that a person has been identified.
