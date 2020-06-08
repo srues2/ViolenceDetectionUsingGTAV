@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+setup.py
+styleaug/__init__.py
+styleaug/ghiasi.py
+styleaug/styleAugmentor.py
+styleaug/stylePredictor.py
+styleaug.egg-info/PKG-INFO
+styleaug.egg-info/SOURCES.txt
+styleaug.egg-info/dependency_links.txt
+styleaug.egg-info/requires.txt
+styleaug.egg-info/top_level.txt
+styleaug/checkpoints/checkpoint_embeddings.pth
+styleaug/checkpoints/checkpoint_stylepredictor.pth
+styleaug/checkpoints/checkpoint_transformer.pth
