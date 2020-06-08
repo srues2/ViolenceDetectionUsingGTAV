@@ -11,4 +11,6 @@ The proposed framework is based on the three-staged end- to-end framework of Ull
 ## 1. Person identification
 The incoming surveillance sequences were first assessed by a MobileNet-SSD CNN model [38]. This model was originally designed for object detection, fine-grain classification, face attributes and large-scale geolocation. In this thesis, this model was used for person identification. 
 
+Open the folder /ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv to see the code how people are identified in videos.
+
 ## 2. Violence identification
