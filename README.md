@@ -1,4 +1,4 @@
-# ViolenceDetectionUsingGTAV
+# Violence Detection Using GTA V
 Violence Detection Using Grand Theft Auto V
 
 # Deep learning framework
