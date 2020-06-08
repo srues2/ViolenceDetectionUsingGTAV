@@ -11,7 +11,7 @@ toTensor = ToTensor()
 toPIL = ToPILImage()
 
 # load image:
-im = Image.open('mug.png')
+im = Image.open('000064.png')
 im_torch = toTensor(im).unsqueeze(0) # 1 x 3 x 256 x 256
 im_torch = im_torch.to('cuda:0' if torch.cuda.is_available() else 'cpu')
 
