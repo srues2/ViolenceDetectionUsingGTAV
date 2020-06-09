@@ -18,4 +18,5 @@ The Keras ImageDataGenerator was applied for the mix of seven traditional data a
 Style augmentation is a new form of data augmentation based on a random style transformer. Style augmentation randomizes texture, contrast and color, while preserving the shape and se- mantic content. The code of the style augmentation technique is baded on [Jackson's](https://www.semanticscholar.org/paper/Style-Augmentation%3A-Data-Augmentation-via-Style-Jackson-Abarghouei/a34b1a2cb44cbf647fb64dc9de4c128834bd4cef) research. A number of examples to which style augmentation was applied to a random frame of the GTA-V Fight dataset are shown in figure 1.
 
 ![Alt text](StyleAugGTADataset.png)
+
 **Figure 1:** Style augmentation applied to a frame of the GTA-V Fight dataset. The original frame is shown on the top left.
