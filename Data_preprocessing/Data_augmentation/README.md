@@ -10,6 +10,7 @@ The Keras ImageDataGenerator was applied for the mix of seven traditional data a
 | Rotation_range  | Horizontal_flipping   |Zoom_range |Shear_range  |Height_shift_range |Width_shift_range  |Fill_mode  |
 | --------------- | --------------------- |-----------|------------ |------------------ |----------------   |---------  |
 | 40              | True                  | 0.2        | 0.2        | 0.2               | 0.2               |Nearest    |
+
 **Table 1:** Parameters traditional data augmentation
 
 
