@@ -34,7 +34,7 @@ The following software / plugins were used during the project:
 * [Keras](https://keras.io) version 2.2.4
 * [TensorFlow](https://www.tensorflow.org/install/pip) version 1.15.2
 
-
+In addition, we trained and tested the 3D CNN model using a Graphics Processing Unit (GPU). During compiling the model, it turned out that our computers did not have enough CPU and GPU. Therefore, we used a virtual machine on Amazon Web Services (AWS). We employed an EC2 P2.xlarge instance on the AWS server, which comes with an Nvidia k80 GPU and a 61 GB RAM. 
 
 
 <!-- USAGE EXAMPLES -->
