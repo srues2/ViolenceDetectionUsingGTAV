@@ -7,7 +7,6 @@ There are a small number of studies known about automatic recognizing criminal i
 * [About the Thesis Project](#about-the-thesis-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -26,33 +25,15 @@ As mentioned above, the thesis studied how a violent activity will be detected b
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Various software inputs/plugins were used during this project. These software inputs/plugins are required for running the code.
 
 ### Prerequisites
+The following software / plugins were used during the project:
+* [Python](https://www.python.org/downloads/) version 3
+* [Opencv](https://opencv.org/opencv-3-4-1/) version 3.4.1
+* [Keras](https://keras.io) version 2.2.4
+* [TensorFlow](https://www.tensorflow.org/install/pip) version 1.15.2
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
 
 
 
