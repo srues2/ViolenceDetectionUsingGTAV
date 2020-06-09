@@ -56,6 +56,7 @@ The file **ViolenceDetectionUsingGTAV/Data_preprocessing/Data_preparation/Prepro
 #### Data augmentation
 Data augmentation is applied on the sequences of frames to regularize the data and to prevent overfitting in the model. Two different data augmentation techniques have been applied to the data: a mix of seven traditional augmentation techniques and style augmentation. 
 
+The file **ViolenceDetectionUsingGTAV/Data_preprocessing/Data_augmentation/DataAugmentation.ipynb** contains the code for the data augmentation. Both data augmentation techniques are performed in this file.
 
 ### MobileNetSSD CNN model
 The incoming surveillance sequences were first assessed by a MobileNet-SSD CNN model. This model was originally designed for object detection, fine-grain classification, face attributes and large-scale geolocation. In this thesis, this model was used for person identification. 
