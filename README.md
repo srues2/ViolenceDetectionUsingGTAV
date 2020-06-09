@@ -74,7 +74,9 @@ The file offers two options:
 ### 3D CNN model
 Inspired by the performance of [Ullah’s](https://www.semanticscholar.org/paper/Violence-Detection-Using-Spatiotemporal-Features-3D-Ullah-Ullah/953a96b6cf39d9acab182ea6345d0202210ebcc0) network, we decided to use his 3D CNN network to determine the performance of the newly created GTA-V dataset. The network architecture is shown in figure 1.
 
-The file "" contains the code " " to save the input frame sequences in numpy files.
+The file **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** contains the code to save the input frame sequences in the right input format (numpy files). Then the model is created and evaluated in the file **"ViolenceDetectionUsingGTAV/3D CNN/CreateC3DNetwork_And_TrainingTesting.ipynb"**. After training the model, the best model and weights are stored in the directory **"ViolenceDetectionUsingGTAV/3D CNN/weights"**. Some datasets are too large to be loaded in the AWS GPU server at one time. Therefore, it was decided to split the datasets into several parts. This is done by the code in the file ** **"ViolenceDetectionUsingGTAV/3D CNN/CreateSubdata.ipynb"**.
+
+
 <!-- ROADMAP -->
 ## Roadmap
 
