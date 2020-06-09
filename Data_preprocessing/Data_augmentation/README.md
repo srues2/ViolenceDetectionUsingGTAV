@@ -6,10 +6,9 @@ The file **ViolenceDetectionUsingGTAV/Data_preprocessing/Data_augmentation/DataA
 
 ### Traditional data augmentation
 The Keras ImageDataGenerator was applied for the mix of seven traditional data augmentation techniques. The traditional augmentation techniques consist of horizontal flipping, rotations, zooming, erasing, shearing, conversion to grayscale and random perturbations of hue, saturation, brightness and contrast. The preprocessing parameters are randomly chosen and are shown in table below.
-| Rotation_ | Horizontal_   |
-| Range     | flipping      |
-| --------- | ------------- |
-| 40        | True          |
+| Rotation_range  | Horizontal_flipping   |
+| -------------   | --------------------- |
+| 40              | True                  |
 
 
 ### Style augmentation
