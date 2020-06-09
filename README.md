@@ -27,6 +27,7 @@ The file offers two options:
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Person identification](#person-identification)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
