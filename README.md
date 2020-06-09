@@ -7,7 +7,7 @@ There are a small number of studies known about automatic recognizing criminal i
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
 * [Usage](#usage)
-  * [Data preprocessing](#data-preprocessing)
+  * [Data pre-processing](#data-preprocessing)
   * [MobileNetSSD CNN model](#mobilenetssd-cnn-model)
   * [3D CNN model](#3d-cnn-model)
 * [Roadmap](#roadmap)
@@ -43,7 +43,7 @@ In addition, we trained and tested the 3D CNN model using a Graphics Processing 
 ## Usage
 This section describes of how the project can be used. The project has passed a number of phases. The first phase consisted of data preparation and data augmentation. The second phase was to create the MobilNetSSD model and conduct the first experiments. Finally, the 3D CNN model was designed and different experiments were performed.
 
-### Data preprocessing
+### Data pre-processing
 The data pre-processing consists of two parts: 1) data preparation and 2) data augmentation. In the data preparation, frames are extracted from the input videos and the data is prepared to be able to pass through the models. Furthermore, data preparation is performed to further expand the dataset. Next, the data set is split into a train and test data set. 
 
 #### Data preparation
