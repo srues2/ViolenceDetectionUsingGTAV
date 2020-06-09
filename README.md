@@ -6,6 +6,7 @@ The proposed framework is based on the three-staged end- to-end framework of Ull
 
 ![Alt text](DLFramework.png)
 **Figure 1:**  Deep learning framework of the violent detection method.
+#Ready, set, GO!
 
 
 ## 1. Person identification
@@ -27,7 +28,7 @@ The file offers two options:
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [1. Person identification](#-1.-person-identification)
+* [Ready, set, GO!](#ready-set-go)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
