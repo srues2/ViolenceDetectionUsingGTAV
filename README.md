@@ -12,8 +12,7 @@ There are a small number of studies known about automatic recognizing criminal i
     * [Data augmentation](#data-augmentation)
   * [MobileNetSSD CNN model](#mobilenetssd-cnn-model)
   * [3D CNN model](#3d-cnn-model)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
+
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -77,23 +76,9 @@ Inspired by the performance of [Ullah’s](https://www.semanticscholar.org/paper
 The file **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** contains the code to save the frame sequences in the right input format (numpy files). Then the model is created and evaluated in the file **"ViolenceDetectionUsingGTAV/3D CNN/CreateC3DNetwork_And_TrainingTesting.ipynb"**. After training the model, the best model and weights are stored in the directory **"ViolenceDetectionUsingGTAV/3D CNN/weights"**. Some datasets are too large to be loaded in the AWS GPU server at one time. Therefore, it was decided to split the datasets into several parts. This is done by the code in the file ** **"ViolenceDetectionUsingGTAV/3D CNN/CreateSubdata.ipynb"**.
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/srues2/ViolenceDetectionUsingGTAV/issues) for a list of proposed features (and known issues).
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 
@@ -109,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Stan Ruessink - [@LinkedIn](https://www.linkedin.com/in/stan-ruessink-8733aa157/) - s.ruessink@tilburguniversity.edu
 
-Paper Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Thesis Link: [thesis_version1](https://github.com/srues2/ViolenceDetectionUsingGTAV/blob/master/ThesisV1.pdf)
 
 
 
