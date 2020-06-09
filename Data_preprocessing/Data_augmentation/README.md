@@ -5,6 +5,11 @@ Data augmentation is applied on the sequences of frames to regularize the data a
 The file **ViolenceDetectionUsingGTAV/Data_preprocessing/Data_augmentation/DataAugmentation.ipynb** contains the code for the data augmentation. Both data augmentation techniques are performed in this file.
 
 ### Traditional data augmentation
+The Keras ImageDataGenerator was applied for the mix of seven traditional data augmentation techniques. The traditional augmentation techniques consist of horizontal flipping, rotations, zooming, erasing, shearing, conversion to grayscale and random perturbations of hue, saturation, brightness and contrast. The preprocessing parameters are randomly chosen and are shown in table below.
+| Rotation_ | Horizontal_   |
+| Range     | flipping      |
+| --------- | ------------- |
+| 40        | True          |
 
 
 ### Style augmentation
