@@ -45,6 +45,16 @@ This section describes of how the project can be used. The project has passed a 
 
 ### Data preprocessing
 ### MobileNetSSD CNN model
+The incoming surveillance sequences were first assessed by a MobileNet-SSD CNN model [38]. This model was originally designed for object detection, fine-grain classification, face attributes and large-scale geolocation. In this thesis, this model was used for person identification. 
+
+Open the folder **"/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv"** to see the code how people are identified in videos.
+
+The file **"/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv/RunModelOnVideo.ipynb"** contains the main function for identifying people in videos.
+
+The file offers two options:
+1. You can upload an input video for the person identification model by yourself. As soon as a person is identified in the video, the video stops and the output prints that a person has been identified.
+2. You can use your own camera. As soon as a person is identified on the video, a block is created around the person.
+
 ### 3D CNN model
 
 
@@ -120,15 +130,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
-## Person identification
-The incoming surveillance sequences were first assessed by a MobileNet-SSD CNN model [38]. This model was originally designed for object detection, fine-grain classification, face attributes and large-scale geolocation. In this thesis, this model was used for person identification. 
-
-Open the folder **"/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv"** to see the code how people are identified in videos.
-
-The file **"/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv/RunModelOnVideo.ipynb"** contains the main function for identifying people in videos.
-
-The file offers two options:
-1. You can upload an input video for the person identification model by yourself. As soon as a person is identified in the video, the video stops and the output prints that a person has been identified.
-2. You can use your own camera. As soon as a person is identified on the video, a block is created around the person.
 
 ## 2. Violence identification
