@@ -12,10 +12,8 @@ There are a small number of studies known about automatic recognizing criminal i
     * [Data augmentation](#data-augmentation)
   * [MobileNetSSD CNN model](#mobilenetssd-cnn-model)
   * [3D CNN model](#3d-cnn-model)
-
-* [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Thesis Project
@@ -77,18 +75,6 @@ The file **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** con
 
 
 
-
-
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -96,21 +82,6 @@ Stan Ruessink - [@LinkedIn](https://www.linkedin.com/in/stan-ruessink-8733aa157/
 
 Thesis Link: [thesis_version1](https://github.com/srues2/ViolenceDetectionUsingGTAV/blob/master/ThesisV1.pdf)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
 
 
