@@ -4,7 +4,7 @@ There are a small number of studies known about automatic recognizing criminal i
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Thesis Project](#about-the-project)
+* [About the Thesis Project](#about-the-thesis-project)
 * [Person identification](#person-identification)
 * [Ready, set, GO!](#ready-set-go)
   * [Built With](#built-with)
