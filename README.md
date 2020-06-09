@@ -3,11 +3,13 @@ There are a small number of studies known about automatic recognizing criminal i
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-
 * [About the Thesis Project](#about-the-thesis-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
 * [Usage](#usage)
+  * [Data preprocessing](#data-preprocessing)
+  * [MobileNetSSD CNN model](#mobilenetssd-cnn-model)
+  * [3D CNN model](#3d cnn model)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -39,7 +41,7 @@ In addition, we trained and tested the 3D CNN model using a Graphics Processing 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-A number of sections are described below of how the project can be used. The project has passed a number of phases. The first phase consisted of data preparation and data augmentation. The second phase was to create the MobilNetSSD model and conduct the first experiments. Finally, the 3D CNN model was designed and different experiments were performed.
+This section describes of how the project can be used. The project has passed a number of phases. The first phase consisted of data preparation and data augmentation. The second phase was to create the MobilNetSSD model and conduct the first experiments. Finally, the 3D CNN model was designed and different experiments were performed.
 
 ### Data preprocessing
 ### MobileNetSSD CNN model
