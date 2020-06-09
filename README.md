@@ -72,8 +72,9 @@ The file offers two options:
 2. You can use your own camera. As soon as a person is identified on the video, a block is created around the person.
 
 ### 3D CNN model
+Inspired by the performance of [Ullah’s](https://www.semanticscholar.org/paper/Violence-Detection-Using-Spatiotemporal-Features-3D-Ullah-Ullah/953a96b6cf39d9acab182ea6345d0202210ebcc0) network, we decided to use his 3D CNN network to determine the performance of the newly created GTA-V dataset. The network architecture is shown in figure 1.
 
-
+The file "" contains the code " " to save the input frame sequences in numpy files.
 <!-- ROADMAP -->
 ## Roadmap
 
