@@ -7,6 +7,7 @@ The file **"ViolenceDetectionUsingGTAV/Data_preprocessing/Data_preparation/Prepr
 The input layer of the 3D CNN network expects sequence of frames as inputs. The GTA-V Fight dataset consists of videos and must therefore be converted into sequences of frames. The frames of each video are extracted with a rate of 25 frames per second. The frame names are formatted as “video_folder/%06d.jpg”. Then the video frames are resized into 112x112 pixels. The next step is to convert the frames of each video to sequences of 16 frames. During the generation of these sequences is taken into account an 8-frame overlap between two sequences. The main advantage is that there is less information loss between two sequences. In addition, more sequence data is generated which leads to more data regularization.
 
 In the pre-processing step described above, the sequences are only created and the paths of the sequences are stored in a text file. The actual generation of the sequences is done in the **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** file. Each line has the following format:
+
 <string_path> <starting_frame> <label> <group_number>
 
 Below is an example of how the sequence paths are stored: 
