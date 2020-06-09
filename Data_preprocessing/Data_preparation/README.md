@@ -22,7 +22,7 @@ The first part of the code represents the path where the frames of a video are s
 * *9:*
 This is the starting frame number of the sequence. The <starting_frame> is used to specify the starting frame of the clip. We note that 3D CNN extract features of 16-frame-long videos. For example, if starting frame is 1, then you are extracting features for the clip (from the video specified by <string_path>) from frame 1 to 16. If starting frame is 9, then the clip of interest is from frame 9 to 24. 
 * *0:*
-This is the label of the sequence. If a sequence is labeled 0, it does not contain any violence scenarios. If the sequence has a label 1, the violence contains situations.
+This is the label of the sequence. If a sequence is labeled 0, it does not contain violence scenarios. If the sequence has a label 1, the sequence contains violence situations.
 * *25:*
 This is the group number of the sequence. All sequences generated from the same video have the same group number. This group number has been added for the stratified split. A stratified split was applied based on the number of occurrences of violence situations. When splitting the sequence data, it was taken into account that sequences from the same video were in the same subset.
 
