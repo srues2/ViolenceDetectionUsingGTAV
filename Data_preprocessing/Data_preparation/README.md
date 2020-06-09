@@ -29,3 +29,5 @@ This is the group number of the sequence. All sequences generated from the same 
 ## Data pre-processing evaluation datasets
 The file **"ViolenceDetectionUsingGTAV/Data_preprocessing/Data_preparation/Preprocessing-Evaluation_datasets.ipynb"** contains the pre-processing steps for the evaluation datasets.
 
+The evaluation datasets are processed in the same way as GTA-V fight dataset. The only difference is that the evaluation datasets are not split into subsets (train / test). This is because the 3D CNN model only tests on the entire datasets.
+
