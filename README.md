@@ -82,7 +82,7 @@ The file **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** con
 
 Stan Ruessink - [@LinkedIn](https://www.linkedin.com/in/stan-ruessink-8733aa157/) - s.ruessink@tilburguniversity.edu
 
-Thesis Link: [thesis_version1](https://github.com/srues2/ViolenceDetectionUsingGTAV/blob/master/ThesisV1.pdf)
+Thesis Link: [thesis_version1](https://github.com/srues2/ViolenceDetectionUsingGTAV/blob/master/ThesisVersion1.pdf)
 
 
 
