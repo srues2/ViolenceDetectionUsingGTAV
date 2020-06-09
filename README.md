@@ -39,11 +39,11 @@ In addition, we trained and tested the 3D CNN model using a Graphics Processing 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+A number of sections are described below of how the project can be used. The project has passed a number of phases. The first phase consisted of data preparation and data augmentation. The second phase was to create the MobilNetSSD model and conduct the first experiments. Finally, the 3D CNN model was designed and different experiments were performed.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+### Data preprocessing
+### MobileNetSSD CNN model
+### 3D CNN model
 
 
 <!-- ROADMAP -->
