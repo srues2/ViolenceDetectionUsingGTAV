@@ -104,6 +104,3 @@ Thesis Link: [thesis_version1](https://github.com/srues2/ViolenceDetectionUsingG
 [product-screenshot]: images/screenshot.png
 
 
-
-
-## 2. Violence identification
