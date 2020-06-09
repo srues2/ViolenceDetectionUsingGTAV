@@ -16,13 +16,13 @@ Below is an example of how the sequence paths are stored:
 */Volumes/LogisP/Videos/GTA/Violence_Frames/Fight-63 89 1 190*
 
 Each line of code represents a sequence. So in the example above, three sequences are shown. The first sequence is used as an example to explain the rule.
-* */Volumes/LogisP/Videos/GTA/NoViolence_Frames/22-WalkingFront*
+* */Volumes/LogisP/Videos/GTA/NoViolence_Frames/22-WalkingFront:*
 The first part of the code represents the path where the frames of a video are stored.
-* *9*
+* *9:*
 This is the starting frame number of the sequence. The <starting_frame> is used to specify the starting frame of the clip. We note that 3D CNN extract features of 16-frame-long videos. For example, if starting frame is 1, then you are extracting features for the clip (from the video specified by <string_path>) from frame 1 to 16. If starting frame is 9, then the clip of interest is from frame 9 to 24. 
-* *0*
+* *0:*
 This is the label of the sequence. If a sequence is labeled 0, it does not contain any violence scenarios. If the sequence has a label 1, the violence contains situations.
-* *25*
+* *25:*
 This is the group number of the sequence. All sequences generated from the same video have the same group number. This group number has been added for the stratified split. A stratified split was applied based on the number of occurrences of violence situations. When splitting the sequence data, it was taken into account that sequences from the same video were in the same subset.
 
 ## Data pre-processing evaluation datasets
