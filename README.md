@@ -9,7 +9,7 @@ There are a small number of studies known about automatic recognizing criminal i
 * [Usage](#usage)
   * [Data preprocessing](#data-preprocessing)
   * [MobileNetSSD CNN model](#mobilenetssd-cnn-model)
-  * [3D CNN model](#3d cnn model)
+  * [3D CNN model](#3d-cnn-model)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
