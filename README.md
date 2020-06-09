@@ -107,9 +107,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Stan Ruessink - [@LinkedIn](https://www.linkedin.com/in/stan-ruessink-8733aa157/) - s.ruessink@tilburguniversity.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Paper Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
 
