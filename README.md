@@ -44,6 +44,11 @@ In addition, we trained and tested the 3D CNN model using a Graphics Processing 
 This section describes of how the project can be used. The project has passed a number of phases. The first phase consisted of data preparation and data augmentation. The second phase was to create the MobilNetSSD model and conduct the first experiments. Finally, the 3D CNN model was designed and different experiments were performed.
 
 ### Data preprocessing
+The data preprocessing consists of two parts: 1) data preparation and 2) data augmentation. In the data preparation, frames are extracted from the input videos and the data is prepared to be able to pass through the models. Furthermore, data preparation is performed to further expand the dataset.
+#### Data preparation
+This project collected a GTA-V Fight dataset for people fight pose estimation by exploiting the realistic video game GTA-  V. The videos were collected from YouTube videos and self-created videos from the video game. The input layer of the C3D network expects sequence of frames as inputs. The GTA-V Fight dataset consists of videos and must therefore be converted into sequences of frames. 
+#### Data augmentation
+The file 
 ### MobileNetSSD CNN model
 The incoming surveillance sequences were first assessed by a MobileNet-SSD CNN model. This model was originally designed for object detection, fine-grain classification, face attributes and large-scale geolocation. In this thesis, this model was used for person identification. 
 
