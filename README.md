@@ -3,7 +3,7 @@ There are a small number of studies known about automatic recognizing criminal i
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [About the Thesis Project](#about-the-thesis-project)
+* [About The Thesis Project](#about-the-thesis-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
 * [Usage](#usage)
