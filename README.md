@@ -5,9 +5,6 @@ There are a small number of studies known about automatic recognizing criminal i
 ## Table of Contents
 
 * [About the Thesis Project](#about-the-thesis-project)
-* [Person identification](#person-identification)
-* [Ready, set, GO!](#ready-set-go)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -26,12 +23,6 @@ As mentioned above, the thesis studied how a violent activity will be detected b
 ![Alt text](DLFramework.png)
 **Figure 1:**  Deep learning framework of the violent detection method.
 
-
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
 
 <!-- GETTING STARTED -->
 ## Getting Started
