@@ -2,7 +2,7 @@
 
 Inspired by the performance of [Ullah’s network](https://www.semanticscholar.org/paper/Violence-Detection-Using-Spatiotemporal-Features-3D-Ullah-Ullah/953a96b6cf39d9acab182ea6345d0202210ebcc0), we decided to use his 3D CNN network to determine the performance of the newly created GTA-V dataset. The network architecture is shown in figure 1.
 
-![Alt text](3DCNNNetwork.png)
+![Alt text](3DCNNNetwork.PNG)
 
 **Figure 1:** 3D CNN network architecture
 
