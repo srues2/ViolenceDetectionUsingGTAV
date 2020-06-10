@@ -80,7 +80,13 @@ The file **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** con
 <!-- CONTACT -->
 ## Contact
 
-Stan Ruessink - [@LinkedIn](https://www.linkedin.com/in/stan-ruessink-8733aa157/) - s.ruessink@tilburguniversity.edu
+Stan Ruessink - s.ruessink@tilburguniversity.edu
+Jheronimus Academy of Data Science
+
+Supervisors:
+* Prof. Damian Tamburri, JADS
+* Prof. Eric Postma, JADS 
+* Dr. Giuseppe Cascavilla, JADS
 
 Thesis Link: [thesis_version1](https://github.com/srues2/ViolenceDetectionUsingGTAV/blob/master/ThesisVersion1.pdf)
 
