@@ -10,7 +10,9 @@ The file **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** con
 
 Next, the model is created and evaluated in the file **"ViolenceDetectionUsingGTAV/3D CNN/CreateC3DNetwork_And_TrainingTesting.ipynb"**. Each convolutional layer has 3x3x3 kernel size with stride 1x1x1. All pooling layers have 2x2x2 kernel size with stride 2x2x2 except for the first pooling layer with a kernel size of 1x2x2 and stride 1x2x2. The number of filters for each convolutional layer differs per layer. The first and second convolutional layers have 64 filters, the third and fourth convolutional layers have 128 filters, the fifth and second convolutional layers have 256 filters and the other convolutional layers have 512 filters. Stochastic gradient descent with a mini-batch size of 16 was used to update the parameters, with a learning rate of 0.001. Dropout was used in the fully connected layers with a rate of 0.5. Each fully connected layer has 4096 output units. The Softmax layer contains two outputs because there were two classes in the dataset: fight and non-fight scenarios. The model was trained over 40 epochs.
 
-After training the model, the best model and weights are stored in the directory "ViolenceDetectionUsingGTAV/3D CNN/weights". Some datasets are too large to be loaded in the AWS GPU server at one time. Therefore, it was decided to split the datasets into several parts. This is done by the code in the file ** **"ViolenceDetectionUsingGTAV/3D CNN/CreateSubdata.ipynb"**.
+After training the model, the best model and weights are stored in the directory **"ViolenceDetectionUsingGTAV/3D CNN/weights"**. 
+
+Some datasets are too large to be loaded in the AWS GPU server at one time. Therefore, it was decided to split the datasets into several parts. This is done by the code in the file ** **"ViolenceDetectionUsingGTAV/3D CNN/CreateSubdata.ipynb"**.
 
 
 ## System
