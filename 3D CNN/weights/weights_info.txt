@@ -1,4 +1,5 @@
-Weights file is too big to upload, download the file here:
-......
+Weights file is too big to upload, send an email to s.ruessink@tilburguniverstiy.edu to receive the weights&model:
+
+s.ruessink@tilburguniversity.edu
 
 Then, paste the downloaded file in this location.
