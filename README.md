@@ -81,7 +81,8 @@ The file **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** con
 ## Contact
 
 Stan Ruessink - s.ruessink@tilburguniversity.edu
-Jheronimus Academy of Data Science
+
+Jheronimus Academy of Data Science (JADS)
 
 Supervisors:
 * Prof. Damian Tamburri, JADS
