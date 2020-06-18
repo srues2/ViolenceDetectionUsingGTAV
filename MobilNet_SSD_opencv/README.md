@@ -1,7 +1,7 @@
 # MobilNet_SSD_opencv
 MobilNet-SSD object detection in opencv 3.4.1 and python 2 or 3
 
-The incoming surveillance sequences were first assessed by a MobileNet-SSD CNN model [38]. This model was originally designed for object detection, fine-grain classification, face attributes and large-scale geolocation. In this thesis, this model was used for person identification.
+The incoming surveillance sequences were first assessed by a [ MobileNet-SSD CNN model](https://arxiv.org/abs/1704.04861). This model was originally designed for object detection, fine-grain classification, face attributes and large-scale geolocation. In this thesis, this model was used for person identification.
 
 Open the folder **"/ViolenceDetectionUsingGTAV/MobilNet_SSD_opencv"** to see the code how people are identified in videos.
 
