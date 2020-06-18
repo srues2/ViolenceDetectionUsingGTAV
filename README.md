@@ -89,7 +89,7 @@ Supervisors:
 * Prof. Eric Postma, JADS 
 * Dr. Giuseppe Cascavilla, JADS
 
-Thesis Link: [thesis_version1](https://github.com/srues2/ViolenceDetectionUsingGTAV/blob/master/ThesisVersion1.pdf)
+Thesis Link: [thesis_version2](https://github.com/srues2/ViolenceDetectionUsingGTAV/blob/master/ThesisReportVersion2.pdf)
 
 
 
