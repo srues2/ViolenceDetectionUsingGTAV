@@ -13,7 +13,7 @@ There are a small number of studies known about automatic recognizing criminal i
     * [Data augmentation](#data-augmentation)
   * [MobileNetSSD CNN model](#mobilenetssd-cnn-model)
   * [3D CNN model](#3d-cnn-model)
-  * [Datasets](#datasets)
+* [Datasets](#datasets)
 * [Contact](#contact)
 
 
@@ -76,7 +76,7 @@ Inspired by the performance of [Ullah’s](https://www.semanticscholar.org/paper
 
 The file **"ViolenceDetectionUsingGTAV/3D CNN/Generator_NpSequences.ipynb"** contains the code to save the frame sequences in the right input format (numpy files). Then the model is created and evaluated in the file **"ViolenceDetectionUsingGTAV/3D CNN/CreateC3DNetwork_And_TrainingTesting.ipynb"**. After training the model, the best model and weights are stored in the directory **"ViolenceDetectionUsingGTAV/3D CNN/weights"**. Some datasets are too large to be loaded in the AWS GPU server at one time. Therefore, it was decided to split the datasets into several parts. This is done by the code in the file ** **"ViolenceDetectionUsingGTAV/3D CNN/CreateSubdata.ipynb"**.
 
-### Datasets
+## Datasets
 The datasets are too big to upload on this Github page. The datasets can be shared on request.
 
 <!-- CONTACT -->
