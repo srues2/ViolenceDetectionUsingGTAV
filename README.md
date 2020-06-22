@@ -1,4 +1,4 @@
-# Violence Detection Using GTA V
+# Violence Detection:A Serious-Gaming Approach
 There are a small number of studies known about automatic recognizing criminal incidents based on computer science models. Since little to none real data is available due to legal and privacy regulations. A solution to generate datasets is through the use of video gaming data. This thesis has studied the possibilities to recognize criminal incidents with a deep learning framework based on video gaming data. The code on this GitHub page demonstrates the source code of this research.
 
 <!-- TABLE OF CONTENTS -->
