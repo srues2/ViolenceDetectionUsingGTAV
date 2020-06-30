@@ -87,9 +87,9 @@ Stan Ruessink - s.ruessink@tilburguniversity.edu
 Jheronimus Academy of Data Science (JADS)
 
 Supervisors:
-* Prof. Damian Tamburri, JADS
-* Prof. Eric Postma, JADS 
-* Dr. Giuseppe Cascavilla, JADS
+* Prof. D.A. Tamburri, JADS
+* Prof. E. Postma, JADS 
+* Dr. G. Cascavilla, JADS
 
 Thesis Link: [FinalThesisReport](https://github.com/srues2/ViolenceDetectionUsingGTAV/blob/master/FinalThesisReport.pdf)
 
